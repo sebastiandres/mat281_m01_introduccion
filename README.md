@@ -22,7 +22,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 * [03 - Consejos generales](./03_advice_for_life/03_advice_for_life.ipynb)  ¿Cómo es trabajar en el "mundo real"™? Consejos para encontrar un buen trabajo/práctica y tener un correcto desempeño.
 
-* [04 - Librerías de Python](./04_librerias_python/04_librerias_python.ipynb) Sesión hands-on sobre numpy y pandas.
+* [04 - Manipulación de datos](./04_data_manipulation/04_data_manipulation.ipynb) Sesión hands-on sobre pandas.
 
 ## Sobre los notebooks
 
